@@ -31,7 +31,7 @@ global.mess = {
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Loanjiang 🤧...'
 }
-global.thumb = fs.readFileSync('./image/hinata.jpg')
+global.thumb = fs.readFileSync('./image/IMG-20220726-WA00971658821633353.jpeg')
 global.vn = './sound/menu.mp3'
 
 let file = require.resolve(__filename)
